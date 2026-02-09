@@ -1,7 +1,7 @@
 # Symulacja Sieci : Routing Statyczny, WiFi & Usługi Sieciowe (Cisco Packet Tracer)
 
 <p align="center">
-  <img src="images/topology.png" alt="Topologia Sieci Cisco" width="1000">
+  <img src="images/topology.PNG" alt="Topologia Sieci Cisco" width="1000">
   <br>
   <em>Topologia logiczna sieci. Widoczny szkielet WAN oparty na trójkącie routerów (R1, R2, R3), strefy dostępowe LAN oraz segment bezprzewodowy WiFi.</em>
 </p>
